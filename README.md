@@ -45,7 +45,7 @@ Explore my repositories for more projects involving full-stack applications, UI/
 ## 📫 Get in Touch
 
 - Email: [rodasayalewasmare@gmail.com](mailto:rodasayalewasmare@gmail.com)  
-- LinkedIn: [linkedin.com/in/root-os](https://linkedin.com/in/rodas-asmare-631362205)  
+- LinkedIn: [linkedin.com/in/rodas-asmare-631362205](https://linkedin.com/in/rodas-asmare-631362205)  
 - GitHub: [Root-os](https://github.com/Root-os)  
 
 ## 🤝 Let's Collaborate

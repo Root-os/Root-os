@@ -5,7 +5,7 @@
 # Hi there 👋, I'm Rodas Ayale (Root-os)
 ### Full Stack Developer | Frontend Specialist | Tech Innovator
 
-I am a passionate Full Stack Developer currently working at **Abyssinia Software Technology PC**. With a solid specialization in **frontend development**, I focus on building intuitive and high-performance web applications. I love transforming complex problems into elegant digital solutions and exploring new technologies to deliver outstanding user experiences.
+I am a passionate Full Stack Developer currently working at **Abyssinia Software Technology PLC**. With a solid specialization in **frontend development**, I focus on building intuitive and high-performance web applications. I love transforming complex problems into elegant digital solutions and exploring new technologies to deliver outstanding user experiences.
 
 ## 🛠️ Skills & Technologies
 
@@ -45,7 +45,7 @@ Explore my repositories for more projects involving full-stack applications, UI/
 ## 📫 Get in Touch
 
 - Email: [rodasayalewasmare@gmail.com](mailto:rodasayalewasmare@gmail.com)  
-- LinkedIn: [linkedin.com/in/root-os](https://linkedin.com/in/root-os)  
+- LinkedIn: [linkedin.com/in/root-os](https://linkedin.com/in/rodas-asmare-631362205)  
 - GitHub: [Root-os](https://github.com/Root-os)  
 
 ## 🤝 Let's Collaborate

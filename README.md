@@ -2,7 +2,7 @@
 **Root-os/Root-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi there 👋, I'm Rodas Ayale (Root-os)
+# Hi there 👋, I'm Rodas Ayalew (Root-os)
 ### Full Stack Developer | Backend Passionate | Tech Explorer 
 
 I am a passionate Full Stack Developer currently working at **Abyssinia Software Technology PLC**. With a solid specialization in **frontend development**, I focus on building intuitive and high-performance web applications. I love transforming complex problems into elegant digital solutions and exploring new technologies to deliver outstanding user experiences.

@@ -3,7 +3,7 @@
 -->
 
 # Hi there 👋, I'm Rodas Ayale (Root-os)
-### Full Stack Developer | Frontend Specialist | Tech Innovator
+### Full Stack Developer | Backend Passionate | Tech Explorer 
 
 I am a passionate Full Stack Developer currently working at **Abyssinia Software Technology PLC**. With a solid specialization in **frontend development**, I focus on building intuitive and high-performance web applications. I love transforming complex problems into elegant digital solutions and exploring new technologies to deliver outstanding user experiences.
 
